@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.zoom</string>
+	<string>com.github.ooda-health-it.download.zoomus</string>
 	<key>Process</key>
 	<array>
 		<dict>
