@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.hansen-m.download.zoomus</string>
+	<string>com.github.ooda-health-it.AutoPkgr.Zoom.download.recipe</string>
 	<key>Process</key>
 	<array>
 		<dict>
