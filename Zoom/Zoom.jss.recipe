@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.pkg.zoom</string>
+	<string>com.github.ooda-health-it.pkg.Zoom</string>
 	<key>Process</key>
 	<array>
 		<dict>
