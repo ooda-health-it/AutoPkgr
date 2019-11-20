@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Zoom and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.github.homebysix.pkg.Zoom</string>
+	<string>com.github.ooda-health-it.AutoPkgr.pkg.Zoom</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
