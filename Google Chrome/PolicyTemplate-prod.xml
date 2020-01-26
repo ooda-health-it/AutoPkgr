@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <policy>
     <general>
-        <name>%PROD_NAME%</name>
+        <name>Install Production %PROD_NAME%</name>
         <enabled>true</enabled>
         <frequency>Ongoing</frequency>
         <category>
@@ -9,7 +9,7 @@
         </category>
     </general>
     <scope>
-       <all_computers>true</all_computers>
+        <all_computers>true</all_computers>
     </scope>
     <package_configuration>
         <!--Package added by JSSImporter-->

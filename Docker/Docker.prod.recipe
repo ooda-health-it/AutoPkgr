@@ -17,6 +17,8 @@
 		<string>Docker</string>
 		<key>PROD_NAME</key>
 		<string>%NAME%</string>
+		<key>prod_name</key>
+		<string>%NAME%</string>
 		<key>PROD_UPDATE_GROUP_NAME</key>
 		<string>%NAME%-prod-update-smart</string>
 		<key>PROD_UPDATE_GROUP_TEMPLATE</key>
