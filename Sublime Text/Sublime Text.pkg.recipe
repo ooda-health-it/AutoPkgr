@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Uses https://github.com/autopkg/keeleysam-recipes/tree/master/SublimeText3 recipe to download latest SublimeText 3</string>
 	<key>Identifier</key>
-	<string>com.local..pkg.SublimeText</string>
+	<string>com.github.ooda-health-it.pkg.SublimeText</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.5</string>
 	<key>ParentRecipe</key>
-	<string>local.jss..download.SublimeText</string>
+	<string>com.github.ooda-health-it.download.SublimeText</string>
 	<key>Process</key>
 	<array>
 		<dict>

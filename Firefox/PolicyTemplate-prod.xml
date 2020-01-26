@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <policy>
     <general>
-        <name>%PROD_NAME%</name>
-        <enabled>true</enabled>
+        <name>Install Production %PROD_NAME%</name>
+        <enabled>false</enabled>
         <frequency>Ongoing</frequency>
         <category>
             <name>%CATEGORY%</name>
@@ -35,6 +35,6 @@
         <recon>true</recon>
     </maintenance>
     <files_processes>
-        <run_command></run_command>
+        <run_command>jamf policy -event "%TRIGGER_NAME%"</run_command>
     </files_processes>
 </policy>

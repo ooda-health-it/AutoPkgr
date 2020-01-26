@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Sublime Text and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.SublimeText</string>
+	<string>com.github.ooda-health-it.jss.SublimeText</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.local..pkg.SublimeText</string>
+	<string>com.github.ooda-health-it.pkg.SublimeText</string>
 	<key>Process</key>
 	<array>
 		<dict>

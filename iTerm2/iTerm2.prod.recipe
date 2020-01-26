@@ -8,7 +8,7 @@
 	<key>Description</key>
 	<string>Creates all production policies for a particular title.</string>
 	<key>Identifier</key>
-	<string>com.local.iTerm2.jss.recipes</string>
+	<string>com.github.ooda-health-it.prod.iTerm2</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -45,7 +45,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.4</string>
 	<key>ParentRecipe</key>
-	<string>com.github.jss-recipes.jss.iTerm2</string>
+	<string>com.github.ooda-health-it.jss.iTerm2</string>
 	<key>Process</key>
 	<array>
 		<dict>

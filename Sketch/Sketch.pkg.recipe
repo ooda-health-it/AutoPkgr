@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Sketch and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.homebysix.pkg.Sketch</string>
+	<string>com.github.ooda-health-it.pkg.Sketch</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>0.6.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.foigus.download.Sketch</string>
+	<string>com.github.ooda-health-it.download.Sketch</string>
 	<key>Process</key>
 	<array>
 		<dict>

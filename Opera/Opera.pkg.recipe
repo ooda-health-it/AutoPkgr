@@ -3,18 +3,16 @@
 <plist version="1.0">
 <dict>
     <key>Identifier</key>
-    <string>com.github.amsysuk-recipes.pkg.opera</string>
+    <string>com.github.ooda-health-it.pkg.opera</string>
     <key>Description</key>
-    <string>Downloads latest Opera disk image using the parent recipe
-    com.github.keeleysam.recipes.Opera.download and builds a package.
-    </string>
+    <string></string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>Opera</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.keeleysam.recipes.Opera.download</string>
+    <string>com.github.ooda-health-it.recipes.Opera.download</string>
     <key>Process</key>
     <array>
         <dict>

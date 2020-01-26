@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Docker.</string>
 	<key>Identifier</key>
-	<string>local.jss..install.Docker</string>
+	<string>com.github.ooda-health-it.install.Docker</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>local.jss..download.Docker</string>
+	<string>com.github.ooda-health-it.download.Docker</string>
 	<key>Process</key>
 	<array>
 		<dict>
