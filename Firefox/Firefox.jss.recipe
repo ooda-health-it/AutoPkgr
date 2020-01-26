@@ -11,7 +11,7 @@ Examples include 'en-US', 'de', 'ja-JP-mac', 'sv-SE', and 'zh-TW'
 No idea if all Firefox builds are available in all the same localizations, so you may need to verify that any particular
 combination is offered.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.jss.Firefox_EN</string>
+	<string>com.github.local.jss.Firefox_EN</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -34,7 +34,7 @@ combination is offered.</string>
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.pkg.Firefox_EN</string>
+	<string>com.github.autopkg.pkg.Firefox_EN</string>
 	<key>Process</key>
 	<array>
 		<dict>

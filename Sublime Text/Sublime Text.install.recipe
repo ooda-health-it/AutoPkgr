@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Sublime Text.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.install.SublimeText</string>
+	<string>local.jss..install.SublimeText</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

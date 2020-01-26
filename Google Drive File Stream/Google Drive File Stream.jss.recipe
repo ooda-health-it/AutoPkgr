@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Google Drive File Stream and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.jss.GoogleDriveFileStream</string>
+	<string>com.github.jss-recipes.jss.GoogleDriveFileStream</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.pkg.GoogleDriveFileStream</string>
+	<string>local.jss..pkg.GoogleDriveFileStream</string>
 	<key>Process</key>
 	<array>
 		<dict>

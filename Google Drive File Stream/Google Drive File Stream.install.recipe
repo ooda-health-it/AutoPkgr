@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Google Drive File Stream.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.install.GoogleDriveFileStream</string>
+	<string>local.jss..install.GoogleDriveFileStream</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.GoogleDriveFileStream</string>
+	<string>local.jss..download.GoogleDriveFileStream</string>
 	<key>Process</key>
 	<array>
 		<dict>

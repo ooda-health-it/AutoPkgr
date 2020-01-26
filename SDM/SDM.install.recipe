@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of SDM.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.install.SDM</string>
+	<string>local.jss..install.SDM</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.SDM</string>
+	<string>local.jss..download.SDM</string>
 	<key>Process</key>
 	<array>
 		<dict>

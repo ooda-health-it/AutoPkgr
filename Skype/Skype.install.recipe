@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Skype.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.install.Skype</string>
+	<string>local.jss..install.Skype</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.Skype</string>
+	<string>local.jss..download.Skype</string>
 	<key>Process</key>
 	<array>
 		<dict>

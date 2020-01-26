@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of PureCloud.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.download.PureCloud</string>
+	<string>local.jss.slack.download.PureCloud</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>

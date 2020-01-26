@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Postman.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.install.Postman</string>
+	<string>local.jss..install.Postman</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.Postman</string>
+	<string>local.jss..download.Postman</string>
 	<key>Process</key>
 	<array>
 		<dict>

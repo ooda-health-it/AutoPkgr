@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of PureCloud and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.jss.PureCloud</string>
+	<string>com.github.jss-recipes.jss.PureCloud</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.pkg.PureCloud</string>
+	<string>local.jss.slack.pkg.PureCloud</string>
 	<key>Process</key>
 	<array>
 		<dict>

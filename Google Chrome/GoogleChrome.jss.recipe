@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Google Chrome JSSImporter recipe.</string>
     <key>Identifier</key>
-    <string>com.github.ooda-health-it.jss.GoogleChrome</string>
+    <string>com.github.test.jss.GoogleChrome</string>
     <key>Input</key>
     <dict>
 		<key>CATEGORY</key>
@@ -40,7 +40,7 @@
 		<string>%NAME%-install</string>
     <dict>
     <key>ParentRecipe</key>
-    <string>com.github.ooda-health-it.pkg.googlechrome</string>
+    <string>com.github.autopkg.pkg.googlechrome</string>
     <key>Process</key>
     <array>
         <dict>

@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Slack.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.install.Slack</string>
+	<string>local.jss..install.Slack</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.Slack</string>
+	<string>local.jss..download.Slack</string>
 	<key>Process</key>
 	<array>
 		<dict>
