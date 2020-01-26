@@ -8,7 +8,7 @@
 	<key>Description</key>
 	<string>Creates all production policies for a particular title.</string>
 	<key>Identifier</key>
-	<string>com.local.VisualStudioCode.jss.recipes</string>
+	<string>com.github.ooda-health-it.prod.VisualStudioCode</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -45,7 +45,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.4</string>
 	<key>ParentRecipe</key>
-	<string>com.github.killahquam.jss.visualstudiocode</string>
+	<string>com.github.ooda-health-it.jss.visualstudiocode</string>
 	<key>Process</key>
 	<array>
 		<dict>

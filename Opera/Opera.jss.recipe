@@ -5,7 +5,7 @@
         <key>Description</key>
         <string>Downloads the current release version of Opera and uploads it to the JSS.</string>
         <key>Identifier</key>
-        <string>local.jss.Opera</string>
+        <string>com.github.ooda-health-it.jss.Opera</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
@@ -26,7 +26,7 @@
         <key>MinimumVersion</key>
         <string>0.2.0</string>
         <key>ParentRecipe</key>
-        <string>com.github.amsysuk-recipes.pkg.opera</string>
+        <string>com.github.ooda-health-it.pkg.opera</string>
         <key>Process</key>
         <array>
             <dict>

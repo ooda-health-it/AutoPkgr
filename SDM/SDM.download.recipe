@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of SDM.</string>
 	<key>Identifier</key>
-	<string>local.jss..download.SDM</string>
+	<string>com.github.ooda-health-it.download.SDM</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>

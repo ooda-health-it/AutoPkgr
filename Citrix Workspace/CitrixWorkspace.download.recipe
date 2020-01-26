@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest Citrix Workspace disk image.</string>
 	<key>Identifier</key>
-	<string>com.github.rtrouton.download.citrixworkspace</string>
+	<string>com.github.ooda-health-it.download.citrixworkspace</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

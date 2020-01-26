@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Slack and creates a package.</string>
 	<key>Identifier</key>
-	<string>local.jss..pkg.Slack</string>
+	<string>com.github.ooda-health-it.pkg.Slack</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>local.jss..download.Slack</string>
+	<string>com.github.ooda-health-it.download.Slack</string>
 	<key>Process</key>
 	<array>
 		<dict>

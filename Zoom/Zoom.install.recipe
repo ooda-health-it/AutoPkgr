@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of airhost.</string>
 	<key>Identifier</key>
-	<string>local.jss..install.airhost</string>
+	<string>com.github.ooda-health-it.install.airhost</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>local.jss..download.airhost</string>
+	<string>com.github.ooda-health-it.download.airhost</string>
 	<key>Process</key>
 	<array>
 		<dict>

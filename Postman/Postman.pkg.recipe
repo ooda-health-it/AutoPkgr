@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Postman and creates a package.</string>
 	<key>Identifier</key>
-	<string>local.jss..pkg.Postman</string>
+	<string>com.github.ooda-health-it.pkg.Postman</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>local.jss..download.Postman</string>
+	<string>com.github.ooda-health-it.download.Postman</string>
 	<key>Process</key>
 	<array>
 		<dict>

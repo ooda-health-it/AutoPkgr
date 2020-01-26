@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads Citrix Workspace disk image, extracts the installer package and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.rtrouton.jss.citrixworkspace</string>
+	<string>com.github.ooda-health-it.jss.citrixworkspace</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -28,7 +28,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.rtrouton.pkg.citrixworkspace</string>
+	<string>com.github.ooda-health-it.pkg.citrixworkspace</string>
 	<key>Process</key>
 	<array>
 		<dict>

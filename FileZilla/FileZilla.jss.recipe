@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Uses parent pkg recipe to downloads latest FileZilla and import it into the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.scriptingosx.jss.FileZilla</string>
+	<string>com.github.ooda-health-it.jss.FileZilla</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -28,7 +28,7 @@
 	<key>MinimumVersion</key>
 	<string>0.4.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.scriptingosx.pkg.FileZilla</string>
+	<string>com.github.ooda-health-it.pkg.FileZilla</string>
 	<key>Process</key>
 	<array>
 		<dict>

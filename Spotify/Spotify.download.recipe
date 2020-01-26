@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Spotify.</string>
 	<key>Identifier</key>
-	<string>local.jss..download.Spotify</string>
+	<string>com.github.ooda-health-it.download.Spotify</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
