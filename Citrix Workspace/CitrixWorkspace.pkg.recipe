@@ -5,7 +5,7 @@
       <key>Description</key>
       <string>Downloads the latest Citrix Workspace version and extracts the package.</string>
       <key>Identifier</key>
-      <string>com.github.ooda-health-it.pkg.citrixworkspace</string>
+      <string>com.github.rtrouton.pkg.citrixworkspace</string>
       <key>Input</key>
       <dict>
          <key>NAME</key>
@@ -18,7 +18,7 @@
       <key>MinimumVersion</key>
       <string>1.0.0</string>
       <key>ParentRecipe</key>
-      <string>com.github.ooda-health-it.download.citrixworkspace</string>
+      <string>com.github.rtrouton.download.citrixworkspace</string>
       <key>Process</key>
       <array>
          <dict>

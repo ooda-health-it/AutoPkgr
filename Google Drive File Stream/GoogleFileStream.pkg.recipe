@@ -12,7 +12,7 @@
         <string>Google Drive File Stream</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.ooda-health-it.download.GoogleDriveFileStream</string>
+    <string>local.jss.download.GoogleDriveFileStream</string>
     <key>Process</key>
     <array>
         <dict>

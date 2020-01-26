@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Installs the latest version of Evernote.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.install.Evernote</string>
+	<string>local.jss..install.Evernote</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.Evernote</string>
+	<string>local.jss..download.Evernote</string>
 	<key>Process</key>
 	<array>
 		<dict>

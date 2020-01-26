@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of GoToMeeting and builds a package.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.pkg.GoToMeeting</string>
+	<string>com.github.homebysix.pkg.GoToMeeting</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.4</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.download.GoToMeeting</string>
+	<string>com.github.homebysix.download.GoToMeeting</string>
 	<key>Process</key>
 	<array>
 		<dict>

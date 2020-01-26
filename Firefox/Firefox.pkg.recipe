@@ -12,7 +12,7 @@ See the following URLs for more info:
     http://ftp.mozilla.org/pub/firefox/releases/latest-esr/README.txt
     http://ftp.mozilla.org/pub/firefox/releases/latest-beta/README.txt</string>
     <key>Identifier</key>
-    <string>com.github.ooda-health-it.pkg.Firefox_EN</string>
+    <string>com.github.autopkg.pkg.Firefox_EN</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -21,7 +21,7 @@ See the following URLs for more info:
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.ooda-health-it.download.firefox-rc-en_US</string>
+    <string>com.github.autopkg.download.firefox-rc-en_US</string>
     <key>Process</key>
     <array>
         <dict>

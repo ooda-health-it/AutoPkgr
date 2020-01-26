@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest FileZilla and creates a package.</string>
     <key>Identifier</key>
-    <string>com.github.ooda-health-it.pkg.FileZilla</string>
+    <string>com.github.scriptingosx.pkg.FileZilla</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -14,7 +14,7 @@
     <key>MinimumVersion</key>
     <string>0.2.9</string>
     <key>ParentRecipe</key>
-    <string>com.github.ooda-health-it.download.FileZilla</string>
+    <string>com.github.keeleysam.recipes.FileZilla.download</string>
     <key>Process</key>
     <array>
         <dict>

@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of iTerm2 and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.jss.iTerm2</string>
+	<string>com.github.jss-recipes.jss.iTerm2</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
@@ -32,7 +32,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.pkg.iTerm2</string>
+	<string>local.jss..pkg.iTerm2</string>
 	<key>Process</key>
 	<array>
 		<dict>

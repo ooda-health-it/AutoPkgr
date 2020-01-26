@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Slack.</string>
 	<key>Identifier</key>
-	<string>com.github.ooda-health-it.prod.Slack</string>
+	<string>local.jss..download.Slack</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
