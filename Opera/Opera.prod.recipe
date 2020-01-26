@@ -30,9 +30,9 @@
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
 		<key>SELF_SERVICE_INSTALL_BUTTON</key>
-		<string>Install %version%</string>
+		<string>Install</string>
 		<key>SELF_SERVICE_REINSTALL_BUTTON</key>
-		<string>Install %version%</string>
+		<string>Install</string>
 		<key>STOP_IF_NO_JSS_UPLOAD</key>
 		<false/>
 		<key>TRIGGERONLY_POLICY_CATEGORY</key>
