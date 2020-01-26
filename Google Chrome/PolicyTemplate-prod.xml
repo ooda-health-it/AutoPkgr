@@ -9,7 +9,7 @@
         </category>
     </general>
     <scope>
-        <!--Scope added by JSSImporter-->
+       <all_computers>true</all_computers>
     </scope>
     <package_configuration>
         <!--Package added by JSSImporter-->
