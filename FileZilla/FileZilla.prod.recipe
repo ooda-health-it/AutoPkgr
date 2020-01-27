@@ -45,7 +45,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.4</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ooda-health-it.scriptingosx.jss.FileZilla</string>
+	<string>com.github.ooda-health-it.jss.FileZilla</string>
 	<key>Process</key>
 	<array>
 		<dict>
