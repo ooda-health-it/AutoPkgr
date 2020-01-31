@@ -35,6 +35,6 @@
         <recon>true</recon>
     </maintenance>
     <files_processes>
-        <run_command></run_command>
+        <run_command>ln -s /Applications/SDM.app/Contents/Resources/sdm.darwin /usr/local/bin/sdm</run_command>
     </files_processes>
 </policy>
